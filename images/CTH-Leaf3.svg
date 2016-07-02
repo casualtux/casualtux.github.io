@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   id="svg3874"
+   version="1.1"
+   viewBox="0 0 1000 1000"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="CTH-Leaf3.svg">
+  <title
+     id="title3339">CTH Leaf3</title>
+  <defs
+     id="defs3876" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="719.76147"
+     inkscape:cy="454.45623"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3335"
+     showgrid="false"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     fit-margin-top="10"
+     inkscape:window-width="1021"
+     inkscape:window-height="768"
+     inkscape:window-x="569"
+     inkscape:window-y="85"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3879">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>CTH Leaf3</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>The copyright holder of this file allows anyone to use it for any purpose, provided that the copyright holder is properly attributed. Redistribution, derivative work, commercial use, and all other use is permitted.</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Troy Dawson</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Troy Dawson</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:date>July 2, 2016</dc:date>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-132.79638,410.95374)">
+    <g
+       id="g3335"
+       transform="matrix(2.2493965,0,0,2.2493965,-183.40646,-754.97652)">
+      <path
+         sodipodi:nodetypes="csssscscssssssssssscc"
+         inkscape:connector-curvature="0"
+         id="path3769-7-1"
+         d="m 179.00945,572.7399 c 0,0 -21.23927,-13.5249 -28.02837,-49.3739 -1.97056,-10.4053 -2.33523,-20.8927 -1.36946,-31.359 0.96576,-10.4662 3.26195,-20.9113 6.61309,-31.2321 1.16069,-3.5747 5.59913,2.6548 9.79565,8.8154 4.19651,6.1605 8.15111,12.2522 8.34412,8.4018 5.24582,-30.9017 11.7313,-54.965 22.2701,-76.0759 10.53879,-21.1108 25.13091,-39.2692 46.58999,-58.3612 3.82205,-2.9212 4.34391,5.9739 4.64181,14.5378 0.29789,8.5639 0.37181,16.7966 3.29796,12.5507 9.20516,-13.3569 28.37832,-36.8768 48.30595,-58.0609 19.92762,-21.1841 40.60971,-40.0323 52.83271,-44.0456 3.62764,-1.1911 3.88766,6.2589 3.98794,13.4169 0.10027,7.1581 0.0408,14.0242 3.02944,11.6652 12.67428,-10.0039 32.19075,-26.2612 52.06195,-41.4764 19.87121,-15.2152 40.09715,-29.3883 54.19039,-35.2239 3.45352,-1.43 2.85136,4.2322 2.20747,9.9422 -0.64389,5.71 -1.32951,11.4678 1.95707,10.2292 26.14357,-9.853 52.86324,-24.7009 73.04702,-37.0855 20.18377,-12.3846 33.83165,-22.3059 33.83165,-22.3059 C 384.42919,362.1353 360.94261,366.8776 179.00945,572.7399 Z"
+         style="fill:#ffffff;fill-opacity:1;stroke:#550000;stroke-width:12.60727119;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path3769-7-1-2"
+         d="M 184.65347,563.9351 C 338.52464,345.9456 338.54828,345.9548 526.52772,221.7682 334.34098,406.2047 366.58663,358.0728 184.65347,563.9351 Z"
+         style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:#550000;stroke-width:12.60727119;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
