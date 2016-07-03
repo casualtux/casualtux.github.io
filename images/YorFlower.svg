@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="1000"
+   width="1000"
+   version="1.1"
+   viewBox="0 0 1000 1000"
+   id="svg4655"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="YorFlower.svg"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata6323">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Yor Flower</dc:title>
+        <dc:date>August 23, 2014</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Troy Dawson</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Yor Flower</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>The copyright holder of this file allows anyone to use it for any purpose, provided that the copyright holder is properly attributed. Redistribution, derivative work, commercial use, and all other use is permitted.</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Troy Dawson</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:description></dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6321" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1339"
+     inkscape:window-height="1003"
+     id="namedview6319"
+     showgrid="false"
+     inkscape:zoom="0.8"
+     inkscape:cx="688.25809"
+     inkscape:cy="484.99104"
+     inkscape:window-x="22"
+     inkscape:window-y="69"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4655"
+     inkscape:object-paths="false"
+     inkscape:snap-intersection-paths="false" />
+  <title
+     id="title4657">Yor Flower</title>
+  <desc
+     id="desc4659">For more information see: http://commons.wikimedia.org/wiki/Image:Tux.svg</desc>
+  <radialGradient
+     id="ag"
+     gradientUnits="userSpaceOnUse"
+     cy="-551.03998"
+     cx="274.82199"
+     gradientTransform="matrix(0.5671,0,0,-0.2835,81.263,201.645)"
+     r="165.384">
+    <stop
+       stop-opacity=".502"
+       offset="0"
+       id="stop4662" />
+    <stop
+       stop-opacity="0"
+       offset="1"
+       id="stop4664" />
+  </radialGradient>
+  <radialGradient
+     id="ak"
+     gradientUnits="userSpaceOnUse"
+     cy="-551.04199"
+     cx="268.79401"
+     gradientTransform="matrix(0.5823,0,0,-0.2835,-61.6052,201.14)"
+     r="165.383">
+    <stop
+       stop-opacity=".502"
+       offset="0"
+       id="stop4669" />
+    <stop
+       stop-opacity="0"
+       offset="1"
+       id="stop4671" />
+  </radialGradient>
+  <g
+     id="g4976"
+     transform="matrix(6.7819453,0,0,6.7819453,1592.3242,2159.8527)">
+    <path
+       inkscape:transform-center-y="0.085001806"
+       inkscape:transform-center-x="1.8231288"
+       transform="translate(-164.98879,17.13345)"
+       d="m 38.708904,-220.56547 c -63.667622,-57.101 11.5358,-41.33884 -73.244666,-30.09771 -42.870637,5.68426 -5.471646,77.73073 12.040544,38.18929 34.6319,-78.19668 42.880329,-1.8032 5.99078,-78.96052 -18.653808,-39.01586 -75.617156,18.81628 -32.599447,23.25238 85.071314,8.77279 14.965702,40.2244 76.947172,-18.70257 31.34195,-29.79739 -41.262326,-66.10164 -32.1881095,-23.81854 17.9450635,83.61857 -33.6310165,26.66325 41.5651875,67.4017 38.024198,20.60007 50.115635,-59.66933 12.706101,-37.97304 -73.980655,42.90632 -35.750813,-23.74561 -51.2584737,60.35911 -7.8417035,42.52893 72.2354917,29.22396 40.0409117,0.3499 z"
+       inkscape:randomized="0"
+       inkscape:rounded="1.08"
+       inkscape:flatsided="false"
+       sodipodi:arg2="2.9296696"
+       sodipodi:arg1="0.81103358"
+       sodipodi:r2="37.922443"
+       sodipodi:r1="52.516361"
+       sodipodi:cy="-258.6398"
+       sodipodi:cx="2.5382888"
+       sodipodi:sides="5"
+       id="path5080"
+       style="fill:#fa9806;fill-opacity:1;stroke:#f58006;stroke-width:8.22000027;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="star" />
+    <circle
+       transform="translate(120.94395,-62.83186)"
+       id="path4974"
+       style="fill:#fadc06;fill-opacity:1;stroke:#f58006;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       cx="-282.00589"
+       cy="-178.65309"
+       r="17.109144" />
+  </g>
+</svg>
