@@ -1,2 +1,5 @@
 # casualtux.github.io
-Casual Tux Github Website
+
+Casual Tux OpenSourced Graphics
+
+https://casualtux.github.io/
