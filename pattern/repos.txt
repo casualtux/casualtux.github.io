@@ -1,0 +1,7 @@
+BlackHawaiian pattern-black-hawaiian
+CasualArcticPenguins pattern-casual-arctic-penguins
+ColorStripe pattern-colorstripe
+FlowerStripe pattern-flowerstripe
+FourSquare pattern-four-square
+SameColor pattern-same-color
+SuddenlyPenguins pattern-suddenly-penguins

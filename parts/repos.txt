@@ -1,0 +1,14 @@
+YorFlower yorflower
+YorSplat yorsplat
+Flowers ctfs-flowers
+FlowerStripe ctfs-flower-stripe
+Hibiscus1 cth-hibiscus1
+Hibiscus2 cth-hibiscus2
+Hibiscus3 cth-hibiscus3
+Leaf1 cth-leaf1
+Leaf2 cth-leaf2
+Leaf3 cth-leaf3
+Stem1 ctsc-stem1
+Stem2 ctsc-stem2
+Stem3 ctsc-stem3
+
